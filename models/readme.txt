@@ -1,1 +1,1 @@
-The model file 'hifun_mode.h5' is too larger (> 99M) to be added to the repository.
+The model file 'hifun_mode.h5' is too larger (> 99M) to be added to the repository. The file can be download from our Web Server 'http://www.unimd.org/HiFun'.
