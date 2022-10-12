@@ -1,7 +1,7 @@
 # HiFun: Homology Independent Protein Function prediction on Protein-Language Self-Attention Model
 [![xUaj74.png](https://s1.ax1x.com/2022/10/12/xUaj74.png)](https://imgse.com/i/xUaj74)
 ## 1. Web server
-We have released a web service to process gene sequence or predicted ORF using HiFun. You can find the website at http://www.unimd.org/HiFun.
+We have released a web service to process protein sequences or predicted ORFs using HiFun. You can find the website at http://www.unimd.org/HiFun.
 ## 2. Links for the larger files
 [embeddings_matrix.npy](http://119.3.41.228/HiFun/HiFun/db/embeddings_matrix.npy)\
 [hifun_mode.h5](http://119.3.41.228/HiFun/HiFun/models/hifun_mode.h5)
